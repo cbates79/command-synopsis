@@ -1,2 +1,2 @@
 # command-synopsis
-This shell script displays the SYNOPSIS section from the manpage for the command line argument.
+This shell script prints the SYNOPSIS section of its argument to standard output.
